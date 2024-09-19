@@ -1,0 +1,14 @@
+D:\projects\SocialExtractor by .net\SocialExtractor\obj\Debug\SocialExtractor.csproj.AssemblyReference.cache
+D:\projects\SocialExtractor by .net\SocialExtractor\obj\Debug\SocialExtractor.Properties.Resources.resources
+D:\projects\SocialExtractor by .net\SocialExtractor\obj\Debug\SocialExtractor.csproj.GenerateResource.cache
+D:\projects\SocialExtractor by .net\SocialExtractor\obj\Debug\SocialExtractor.csproj.CoreCompileInputs.cache
+D:\projects\SocialExtractor by .net\SocialExtractor\bin\Debug\SocialExtractor.exe.config
+D:\projects\SocialExtractor by .net\SocialExtractor\bin\Debug\SocialExtractor.exe
+D:\projects\SocialExtractor by .net\SocialExtractor\bin\Debug\SocialExtractor.pdb
+D:\projects\SocialExtractor by .net\SocialExtractor\bin\Debug\HtmlAgilityPack.dll
+D:\projects\SocialExtractor by .net\SocialExtractor\bin\Debug\HtmlAgilityPack.pdb
+D:\projects\SocialExtractor by .net\SocialExtractor\bin\Debug\HtmlAgilityPack.xml
+D:\projects\SocialExtractor by .net\SocialExtractor\obj\Debug\SocialExtractor.csproj.CopyComplete
+D:\projects\SocialExtractor by .net\SocialExtractor\obj\Debug\SocialExtractor.exe
+D:\projects\SocialExtractor by .net\SocialExtractor\obj\Debug\SocialExtractor.pdb
+D:\projects\SocialExtractor by .net\SocialExtractor\obj\Debug\SocialExtractor.Form1.resources
